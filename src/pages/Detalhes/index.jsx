@@ -36,7 +36,7 @@ export default function Detalhes() {
     return (
       <DetalhesContainer style={{ textAlign: 'center' }}>
         <h2>Identidade não encontrada nos registros da companhia.</h2>
-        <VoltarButton onClick={() => navigate('/')}><FaArrowLeft /> Voltar para o Menu</VoltarButton>
+        <VoltarButton onClick={() => navigate('/catalogo')}><FaArrowLeft /> Voltar para o Menu</VoltarButton>
       </DetalhesContainer>
     );
   }
