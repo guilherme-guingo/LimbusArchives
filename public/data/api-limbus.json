@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nome": "LCB Sinner Yi Sang",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Yi_Sang",
+    "literatura": "Asas (The Wings)",
+    "descricao": "O ex-pesquisador chefe da Liga dos Nove Literatos. Um homem melancólico e taciturno que frequentemente murmura jogos de palavras e metáforas complexas para o vazio."
+  },
+  {
+    "id": 2,
+    "nome": "LCB Sinner Faust",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Faust",
+    "literatura": "Fausto",
+    "descricao": "A genial criadora do ônibus Mephistopheles. Ela afirma saber de tudo que acontece na Cidade e mantém uma postura clínica, analítica e distante dos demais pecadores."
+  },
+  {
+    "id": 3,
+    "nome": "LCB Sinner Don Quixote",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Don_Quixote",
+    "literatura": "Dom Quixote",
+    "descricao": "Uma jovem hiperativa e fanaticamente obcecada pela cultura dos Fixadores. Cega por seus ideais de justiça romântica, ela frequentemente arrasta a equipe para confusões."
+  },
+  {
+    "id": 4,
+    "nome": "LCB Sinner Ryoshu",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Ryoshu",
+    "literatura": "A Tela do Inferno (Hell Screen)",
+    "descricao": "Uma fumante inveterada que enxerga a violência grotesca e o derramamento de sangue como a mais alta forma de arte. Costuma se comunicar apenas através de siglas misteriosas."
+  },
+  {
+    "id": 5,
+    "nome": "LCB Sinner Meursault",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Mersault",
+    "literatura": "O Estrangeiro",
+    "descricao": "Estóico e inexpressivo, ele se recusa a emitir julgamentos morais. Executa ordens de forma estritamente literal, sem nunca questionar ou dar um passo além do que foi pedido."
+  },
+  {
+    "id": 6,
+    "nome": "LCB Sinner Hong Lu",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Hong_Lu",
+    "literatura": "O Sonho da Câmara Vermelha",
+    "descricao": "Nascido no berço de ouro de uma corporação rica, ele é gentil e sorridente, mas sua ignorância sobre a vida dura dos plebeus frequentemente resulta em comentários hilariamente insensíveis."
+  },
+  {
+    "id": 7,
+    "nome": "LCB Sinner Heathcliff",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Heathcliff",
+    "literatura": "O Morro dos Ventos Uivantes",
+    "descricao": "Um delinquente de pavio curto que resolve a maioria dos seus problemas com violência bruta. Apesar de sua agressividade irracional, possui uma astúcia afiada para a sobrevivência."
+  },
+  {
+    "id": 8,
+    "nome": "LCB Sinner Ishmael",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Ishmael",
+    "literatura": "Moby Dick",
+    "descricao": "A voz da razão (e frequentemente do desespero) no grupo. Uma ex-marinheira pragmática que tenta manter a sanidade da equipe enquanto foge dos fantasmas de seu passado no mar."
+  },
+  {
+    "id": 9,
+    "nome": "LCB Sinner Rodion",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Rodion",
+    "literatura": "Crime e Castigo",
+    "descricao": "Extrovertida, apostadora e sempre em busca de dinheiro fácil. Ela age como a irmã mais velha do grupo para mascarar uma culpa profunda e um trauma enraizado no seu passado."
+  },
+  {
+    "id": 10,
+    "nome": "LCB Sinner Sinclair",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Sinclair",
+    "literatura": "Demian",
+    "descricao": "Um garoto tímido e assustadiço, assombrado pela destruição de sua família. No entanto, quando levado ao limite, ele revela uma ferocidade violenta e incontrolável."
+  },
+  {
+    "id": 11,
+    "nome": "LCB Sinner Outis",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Outis",
+    "literatura": "A Odisseia",
+    "descricao": "Uma veterana militar de lealdade fanática e bajuladora ao Gerente. Ela trata os outros pecadores com extrema severidade e esconde a sete chaves as motivações do seu passado."
+  },
+  {
+    "id": 12,
+    "nome": "LCB Sinner Gregor",
+    "faccao": "Limbus Company Bus",
+    "raridade": 1,
+    "pasta": "Gregor",
+    "literatura": "A Metamorfose",
+    "descricao": "O 'tio cansado' do grupo. Um veterano da Guerra da Fumaça pela G Corp que carrega o trauma do conflito e um braço direito permanentemente mutado em uma garra de inseto."
+  }
+]
